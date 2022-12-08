@@ -1,7 +1,7 @@
 backports.entry-points-selectable==1.1.1
 bleach==3.3.0
 brotlipy==0.7.0
-certifi==2020.6.20
+certifi==2022.12.7
 cffi @ file:///tmp/build/80754af9/cffi_1605538068321/work
 chardet @ file:///tmp/build/80754af9/chardet_1605303185383/work
 colorama==0.4.4
